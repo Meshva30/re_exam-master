@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145085006519",
+    "project_id": "re-exam-cb724",
+    "storage_bucket": "re-exam-cb724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145085006519:android:bc5445aa55e026f8298332",
+        "android_client_info": {
+          "package_name": "com.example.re_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4DNN6Rgh9NgP9liAOmeGiOPEELmhtAzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
