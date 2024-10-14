@@ -2,7 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'package:re_exam/view/screen/logic_screen.dart';
+import 'package:re_exam/view/screen/login_screen.dart';
 import 'package:re_exam/view/screen/signup_screen.dart';
 
 import 'firebase_options.dart';

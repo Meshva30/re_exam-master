@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:re_exam/view/screen/logic_screen.dart';
+import 'package:re_exam/view/screen/login_screen.dart';
 
 import '../../controller/sigup_controller.dart';
 import 'home_screen.dart';
